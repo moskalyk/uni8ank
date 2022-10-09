@@ -1,5 +1,5 @@
 # uni8ank
-Play to earn app for oracle tools for players to earn yield based on decisional pathways chocen from a directionn of 255 matter.direct library, where players are recommended a crystal structure to uphold energetic forces based on bavais group numnbers. Some may not be ready, and it can create a type of decisional pathway, while this creates a practice playground for users (moderated) to execute on spiritual journeys. 
+Play to earn app for oracle tools for players to earn yield based on decisional pathways chosen from a direction of 255 matter.direct library symbols, where players are recommended a crystal structure to uphold energetic forces based on Bravais group numbers. Some may not be ready, and it can create a type of decisional practice pathway, while this creates a practice playground for users (moderately) to execute on spiritual journeys.
 
 Adaptation from fluence calculator with crystal sumation to prevent javascript augmentation and true alchemical purity sourcing randomness from the collective nodes of thhe offchain fluence nodes, to computed structures with mina. 
 
@@ -44,3 +44,5 @@ Project energy prep:
 - Crystal: Pulled a Rose Quartz ::> representing empathy and venus, conjuring from the collective unconcious
 
 Working on getting a cat for stable energy attractors
+
+We had fun
